@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Technical Interview questions for Alibaba Travels Co.
+    Technical interview questions for Alibaba Travels Co.
 </p>
 
 <p align="center">
