@@ -1,9 +1,9 @@
 # Cryptography
 
 * Types of Attacks
-  * Cryptoanalysis
-  * Brute Force Attack
-* Types of Cryptography
+  * Cryptanalysis
+  * Brute Force
+* Types of Encryption
   * Symmetric
   * Asymmetric
 * Block vs Stream Cipher
