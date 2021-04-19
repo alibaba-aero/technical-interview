@@ -15,8 +15,7 @@
     * Flyweight
     * Bridge
   * Behavioral
-    * Strategy pattern
-    * Builder pattern
+    * Strategy
     * Template method
     * Visitor
     * Chain of Responsibility
