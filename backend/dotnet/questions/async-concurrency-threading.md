@@ -14,7 +14,7 @@
 	* Task.Run
 		* What does it do?
 		* Does Task.Run() creates a new Thread?!
-		* Exception-Handling in Fire & Forget scenarioes
+		* Exception-Handling in Fire & Forget scenarios
 	* Thread.Sleep vs Task.Delay
 	* CancellationToken
 		* Usages
