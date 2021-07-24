@@ -13,7 +13,7 @@
 	* Why `async void` is bad? When we have to use them?
 	* Task.Run
 		* What does it do?
-		* Does Task.Run() creates a new Thread?!
+		* Does Task.Run() create a new Thread?!
 		* Exception-Handling in Fire & Forget scenarios
 	* Thread.Sleep vs Task.Delay
 	* CancellationToken
