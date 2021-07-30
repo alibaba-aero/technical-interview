@@ -6,11 +6,11 @@
 	* ConcurrenctQueue
 	* Channels
 * Async & Task Internals
-	* How many threads at least needed to run an async task?
+	* At least, how many threads are needed to run an async task?
 	* GetAwaiter().GetResult() vs .Result
 	* Task vs ValueTask
 	* Task.WhenAll & Task.WhenAny
-	* Why `async void` is bad? When we have to use them?
+	* Why is `async void` bad? When do we have to use it?
 	* Task.Run
 		* What does it do?
 		* Does Task.Run() create a new Thread?!
@@ -23,7 +23,7 @@
 		* How can we timeout an async task after some time using CancellationTokens?
 	* IAsyncStateMachine
 		* What's that?
-		* How it works internally?
+		* How does it work internally?
 	* IAsyncEnumerable
 	* IAsyncDisposable
 		* What's that?
