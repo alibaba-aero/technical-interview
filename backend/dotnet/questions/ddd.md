@@ -30,7 +30,7 @@
 			* Anticorruption-Layer
 			* Shared-Kernel
 			* Customer/Supplier
-			* Patnership
+			* Partnership
 			* Published Language
 			* Separate Ways
 		* What's Upstream and Downstream?
