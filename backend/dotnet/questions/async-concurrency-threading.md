@@ -3,7 +3,7 @@
 * Concurrency vs Multi-Threading vs Async vs Parallelism
 * Data-Structures
 	* ConcurrentDictionary
-	* ConcurrenctQueue
+	* ConcurrentQueue
 	* Channels
 * Async & Task Internals
 	* At least, how many threads are needed to run an async task?
