@@ -10,6 +10,7 @@
 	* GetAwaiter().GetResult() vs .Result
 	* Task vs ValueTask
 	* Task.WhenAll & Task.WhenAny
+	* FooAsync.Wait() & FooAsync.WaitAsync()
 	* Why is `async void` bad? When do we have to use it?
 	* Task.Run
 		* What does it do?
