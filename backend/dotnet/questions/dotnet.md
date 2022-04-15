@@ -495,6 +495,7 @@
     * Background collection
     * Memory Pressure
     * Array Pooling
+    * Sync vs Async resource release (await using vs using) eg: DisposeAsync
   * Managed Memory Leaks
     * Timers
     * Event handlers and Weak References
