@@ -18,8 +18,8 @@
 		* Exception-Handling in Fire & Forget scenarios
 	* Thread.Sleep vs Task.Delay
 	* Long-running threads (ThreadPool effects, Implementation via TaskFactory)
-	* ExecutionContext vs SyncronizationContext (aspnetcore breaking changes ?)
-	* AsyncLocal 
+	* ExecutionContext vs SynchronizationContext (aspnetcore breaking changes ?)
+	* AsyncLocal
 	* Asynchronous design patterns like AsyncLazy
 	* CancellationToken
 		* Usages
