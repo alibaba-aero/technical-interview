@@ -1,4 +1,4 @@
-# SQL Server
+# SQL
 
 * Primary-key constraint
   * Enforces the uniqueness of rows and also disallows NULLs in the constraint attributes
