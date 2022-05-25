@@ -1,7 +1,8 @@
 # Docker
 
 * Basic Definition
-* .Net Containerization
+* Containerization of Applications
+* Best practices of Dockerizing applications
 * Containerization Tools
 * Compose
 * Compose CLI
