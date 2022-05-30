@@ -2,13 +2,15 @@
 
 - Monolith's downsides and advantages
 - Microservices downsides and advantages
+- Conveys law
+- CAP theorem
 - Service Registry & Discovery
 - Load-Balancing
 - Distributed Transactions
-- Metrics, Monitoring, Tracing, Logging
+- Application Observability (Metrics, Monitoring, Tracing, Logging, ...)
 - Key-Vaults
 - Service-Mesh
-- Communication Patterns
+- Communication and Integration Patterns
 - Message Delivery Semantics
-- Retry Mechanisms
+- Resiliency patterns
 - Api Gateway responsibilities (TLS termination, routing (eg: geo-proximity, latency-based), throttling or tarpitting, etc)

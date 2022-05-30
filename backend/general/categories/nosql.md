@@ -1,8 +1,8 @@
 # NoSQL
 
-* SQL vs NoSQL
-* Data Models
-* Distribution Models
 * Types of NoSQL Databases
-* CAP Theorem
-* Consistency In Distribution
+  * Graph database
+  * Document-oriented store
+  * Object storage
+  * Column-oriented
+  * Key–value store
