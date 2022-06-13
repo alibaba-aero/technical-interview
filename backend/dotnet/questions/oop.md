@@ -203,8 +203,8 @@
     ```
     Output:
     ```
-    It is an IBar.
-    It is a Bar.
+    It is an Bar.
+    It is a FooBar.
     It is an IBar.
     ```
 #### Dynamic Dispatch
