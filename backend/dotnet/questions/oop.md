@@ -203,7 +203,7 @@
     ```
     Output:
     ```
-    It is an Bar.
+    It is a Bar.
     It is a FooBar.
     It is an IBar.
     ```
