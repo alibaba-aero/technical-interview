@@ -3,7 +3,7 @@
 * What are monolith's downsides and advantages?
 * What are microservices downsides and advantages?
 * Service Registry & Discovery
-    * What's service registry?
+    * What's a service registry?
     * Tools for service-discovery (Consul, Redis, ...)
     * Where do we need them?
 * Load-Balancing
@@ -17,7 +17,7 @@
     * What's two-phase commit?
 * Metrics, Monitoring, Tracing, Logging
     * What's CorrelationId?
-    * What's distributed tracing? Why we need that?
+    * What's distributed tracing? Why do we need that?
     * What are metrics? How to collect them?
     * What's monitoring? How it's related to the metrics?
     * What's centralized logging?
@@ -27,14 +27,14 @@
     * Where to store secret things like passwords, api-keys, ...?
     * What's key-vault?
 * Service-Mesh
-    * What's service-mesh? Why we need that?
+    * What's service-mesh? Why do we need that?
     * What's Side-Car pattern?
 * Communication Patterns (Inbox/Outbox, Fan-in/Fan-Out, Pub/Sub, Peer-2-Peer, ...)
-    * How microservices can talk to each other?
+    * How can microservices talk to each other?
     * What's gRPC? What's protobuf?
 * Message Delivery Semantics (At-Least-Once, At-Most-Once, Exactly-Once) + Retry
     * What's at-least-once in messaging?
     * What's at-most-once in messaging?
     * How to achieve exactly-once delivery in messaging?
-    * What should we do when a message not get delivered?
+    * What should we do when a message does not get delivered?
     * What's retry pattern?

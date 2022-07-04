@@ -2,19 +2,19 @@
 
 * Explain Polyglot Persistency?
 * What's Impedance Mismatch?
-* Why choose NoSQL database?
-* how do we choose which NoSQL database?
+* Why choose a NoSQL database?
+* How do we choose which NoSQL database?
 ## Data Models
   * What's the Aggregate Model?
-  * What's Schemaless Databases
-  * What's Materialized View
+  * What are the Schemaless Databases?
+  * What's a Materialized View?
 ## Distribution Models
   * What types of Data Distribution Models are there?
     * Single Server (No distribution)
     * Sharding
       * Explain Sharding?
-      * How the data is read?
-      * How the data is distributed?
+      * How does the data being read?
+      * How does the data being distributed?
     * Replication
       * Explain Replication?
         * What types of Replication are there?
@@ -46,7 +46,7 @@
 # CAP Theorem
   * Explain CAP Theorem?
   * What's Partition tolerance?
-  * How Availability or Consistency trade-off when partition tolerant occurred?
+  * How does Availability or Consistency trade-off when partition tolerant occurred?
   * Explain BASE (Basically Available, Soft state, Eventual consistency) and its differences with ACID
 # Consistency In Distribution
   * What's Write-write conflict?
@@ -55,7 +55,7 @@
   * Explain pessimistic and optimistic approaches for maintaining consistency?
   * What is an Inconsistency window?
   * Version stamps
-    * How to detect concurrency conflicts?
+    * How can you detect concurrency conflicts?
     * Version stamps Types
       * What's the Counter stamp?
       * What's the GUID stamp?
@@ -66,4 +66,4 @@
 # Map-Reduce
   * What's Map-Reduce?
   * Explain the Basic flow of map-reduce?
-  * What are Partitioning and Combining phases in map-reduce?
+  * What are the Partitioning and Combining phases in map-reduce?
