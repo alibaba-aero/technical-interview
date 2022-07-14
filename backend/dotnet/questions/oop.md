@@ -203,8 +203,8 @@
     ```
     Output:
     ```
-    It is an IBar.
     It is a Bar.
+    It is a FooBar.
     It is an IBar.
     ```
 #### Dynamic Dispatch
@@ -255,7 +255,7 @@
     }
     foreach (dynamic item in items) 
     { 
-      ConsolePrinter.Print(item);
+      Print(item);
     }
     ```
     Output:
@@ -264,7 +264,7 @@
     It is an IBar.
     It is an IBar.
 
-    It is an IBar.
+    It is a Bar.
     It is a FooBar.
     It is a FooBar.
     ```
