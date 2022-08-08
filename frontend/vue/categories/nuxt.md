@@ -1,0 +1,3 @@
+# Nuxt.js
+
+* SSR
