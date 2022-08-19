@@ -1,3 +1,0 @@
-# Angular
-
-* What's angular?
