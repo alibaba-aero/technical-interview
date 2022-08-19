@@ -100,7 +100,7 @@
             -  [dependency injection](./frontend/angular/categories/dependency-injection.md)
             -  [RxJs](./frontend/angular/categories/rxjs.md)
             -  [testing](./frontend/angular/categories/testing.md)
-        - • [questions](./frontend/vue/questions/)
+        - • [questions](./frontend/angular/questions/)
             -  [components](./frontend/angular/questions/components.md)
             -  [templates](./frontend/angular/questions/templates.md)
             -  [directives](./frontend/angular/questions/directives.md)
