@@ -6,3 +6,5 @@
 * Union
 * Enum
 * Generics
+* Decorators
+* Type Assertion
