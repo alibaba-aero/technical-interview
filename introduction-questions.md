@@ -1,6 +1,3 @@
-
-
-
 * What's a cool project that you've recently worked on?
 * What are some things you like about the developer tools you use?
 * Who inspires you in the developers community?
@@ -15,4 +12,4 @@
 * Can you describe your workflow when you create a web page?
 * If you could master one technology this year, what would it be?
 * How did you handle a disagreement with your boss or your collaborator?
-* What resources do you use to learn about the latest in  development?
+* What resources do you use to learn about the latest technologies in  development?
