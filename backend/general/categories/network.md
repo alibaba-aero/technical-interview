@@ -4,6 +4,7 @@
   * OSI model
   * How web works
   * TCP/IP Model
+  * Sockets, TCP/UDS usage
   * NAT
   * Basic knowledge of firewalls and waf
 
