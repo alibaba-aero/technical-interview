@@ -10,8 +10,6 @@ Name | Author |
 **Learning React: Functional Web Development** | *Alex Banks and Eve Porcello*
 **React Cookbook: Recipes for Mastering the React Framework** | *David Griffiths and Dawn Griffiths*
 
-## Links
-
 ### Websites
 Here are the platfroms, providing free and easy to use resources in order to master react.
 
