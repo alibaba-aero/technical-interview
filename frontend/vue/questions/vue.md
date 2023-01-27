@@ -5,7 +5,7 @@
 * What's reactivity in Vue.js?
 * What's state management?
 * Describe lifecycle hooks in Vue.js?
-* Describe different between v-if and v-show?
+* Describe the difference between `v-if` and `v-show`?
 * What are the most essential elements of the State Management Pattern?
 * Explain how to use $parent?
 * How do you verify if a mutation occurs?
