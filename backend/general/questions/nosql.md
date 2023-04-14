@@ -33,7 +33,7 @@
         * MongoDB, Terrastore, RavenDB
     * Key-value databases
       * Explain how Key-value databases persist an object?
-      * Name/Explain some Graph databases?
+      * Name/Explain some Key-value databases?
         * Redis, Memcached, Couchbase, etc.
     * Column family stores
       * Explain row-oriented and column-oriented databases differences?
