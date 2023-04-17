@@ -8,6 +8,14 @@
 * Denormalization
   * Suitable for online analytical processing systems (OLAP)
 * Index
+  * Dense vs Sparse Index Files
+  * Multilevel Index
+  * B-Tree
+  * B+-Tree
+  * Hash Indicies
+  * LSM-Tree
+  * R-Tree
+  * Bitmap Indices
 * CAP Theorem
 * Transactions and isolation levels
   * ACID vs BASE
