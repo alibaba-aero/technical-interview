@@ -14,3 +14,15 @@
 - Message Delivery Semantics
 - Resiliency patterns
 - Api Gateway responsibilities (TLS termination, routing (eg: geo-proximity, latency-based), throttling or tarpitting, etc)
+
+
+## Links
+
+### Websites
+
+* [Microservices Io](https://microservices.io/)
+
+### Books
+
+* [Microservices Patterns](https://www.amazon.com/gp/product/1617294543)
+
