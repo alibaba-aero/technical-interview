@@ -16,5 +16,5 @@
 * Type Coercion
 * HOF
 * Async/await
-* Difference Between Function Expression ,Function declaration And Arrow Functions
+* Difference between function expression, function declaration, and arrow functions.
 
