@@ -32,6 +32,7 @@ ___
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Go Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 * [Awesome Go](https://github.com/avelino/awesome-go)
+* [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 ### Posts
 * [The Go Blog](https://go.dev/blog/)
